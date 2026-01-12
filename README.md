@@ -54,11 +54,6 @@ src/
 
 ## 🔌 Backend API Requirements
 
-The frontend expects a backend running at:
-
-
-
-[https://erp-mnmjec-backend.onrender.com](https://erp-mnmjec-backend.onrender.com)
 
 `
 
@@ -197,14 +192,7 @@ You may modify and extend this project as needed.
 
 ---
 
-If you want next steps:
 
-* Component refactor
-* PWA / kiosk mode
-* Offline audio fallback
-* Production deployment guide
-
-Just say it.
 
 
 
