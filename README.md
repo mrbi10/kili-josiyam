@@ -35,27 +35,11 @@ This repository contains the **frontend only**.
 
 ---
 
-## 📂 Project Structure
-
-
-
-public/
-├─ parrot.json      # Lottie animation
-├─ song.mp3         # Background audio
-└─ index.html
-
-src/
-├─ KiliJothidam.jsx # Main UI + logic
-└─ main.jsx / index.jsx
-
-
 
 ---
 
 ## 🔌 Backend API Requirements
 
-
-`
 
 You can change it here:
 
