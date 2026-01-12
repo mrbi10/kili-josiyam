@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.05b3d271.css",
-    "main.js": "/static/js/main.ab7d5c81.js",
-    "static/js/453.1d7b277d.chunk.js": "/static/js/453.1d7b277d.chunk.js",
-    "index.html": "/index.html",
-    "main.05b3d271.css.map": "/static/css/main.05b3d271.css.map",
-    "main.ab7d5c81.js.map": "/static/js/main.ab7d5c81.js.map",
-    "453.1d7b277d.chunk.js.map": "/static/js/453.1d7b277d.chunk.js.map"
+    "main.css": "/kili-josiyam/static/css/main.05b3d271.css",
+    "main.js": "/kili-josiyam/static/js/main.af799341.js",
+    "static/js/453.1d7b277d.chunk.js": "/kili-josiyam/static/js/453.1d7b277d.chunk.js",
+    "index.html": "/kili-josiyam/index.html",
+    "main.05b3d271.css.map": "/kili-josiyam/static/css/main.05b3d271.css.map",
+    "main.af799341.js.map": "/kili-josiyam/static/js/main.af799341.js.map",
+    "453.1d7b277d.chunk.js.map": "/kili-josiyam/static/js/453.1d7b277d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.05b3d271.css",
-    "static/js/main.ab7d5c81.js"
+    "static/js/main.af799341.js"
   ]
 }
