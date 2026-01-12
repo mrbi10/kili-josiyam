@@ -187,7 +187,7 @@ export default function KiliJothidam() {
           <section style={styles.visualColumn} aria-hidden="true">
             <div style={styles.lottieWrapper}>
               <Lottie
-                path="/parrot.json"
+                path={`${process.env.PUBLIC_URL}/parrot.json`}
                 autoplay={isTalking}
                 loop={isTalking}
                 style={styles.lottieFile}
@@ -268,7 +268,7 @@ export default function KiliJothidam() {
 
 
         <audio ref={audioRef} hidden />
-        <audio ref={songRef} src="/song.mp3" />
+        <audio ref={songRef} src={`${process.env.PUBLIC_URL}/song.mp3`} />
       </div>
     </main>
   );
